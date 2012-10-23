@@ -24,6 +24,7 @@
 		02BCC4C5163646CD00E9F620 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 02BCC4C3163646CD00E9F620 /* InfoPlist.strings */; };
 		02BCC4C8163646CD00E9F620 /* GreyjoyTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 02BCC4C7163646CD00E9F620 /* GreyjoyTests.m */; };
 		02BCC4D41636479500E9F620 /* BaseHttpAPI.m in Sources */ = {isa = PBXBuildFile; fileRef = 02BCC4D31636479500E9F620 /* BaseHttpAPI.m */; };
+		02BCC4D716364CA300E9F620 /* XMLReader.m in Sources */ = {isa = PBXBuildFile; fileRef = 02BCC4D616364CA300E9F620 /* XMLReader.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -61,6 +62,8 @@
 		02BCC4C7163646CD00E9F620 /* GreyjoyTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GreyjoyTests.m; sourceTree = "<group>"; };
 		02BCC4D21636479500E9F620 /* BaseHttpAPI.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseHttpAPI.h; sourceTree = "<group>"; };
 		02BCC4D31636479500E9F620 /* BaseHttpAPI.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseHttpAPI.m; sourceTree = "<group>"; };
+		02BCC4D516364CA300E9F620 /* XMLReader.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMLReader.h; sourceTree = "<group>"; };
+		02BCC4D616364CA300E9F620 /* XMLReader.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMLReader.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -169,6 +172,8 @@
 			children = (
 				02BCC4D21636479500E9F620 /* BaseHttpAPI.h */,
 				02BCC4D31636479500E9F620 /* BaseHttpAPI.m */,
+				02BCC4D516364CA300E9F620 /* XMLReader.h */,
+				02BCC4D616364CA300E9F620 /* XMLReader.m */,
 			);
 			name = API;
 			sourceTree = "<group>";
@@ -287,6 +292,7 @@
 				02BCC4A7163646CC00E9F620 /* AppDelegate.m in Sources */,
 				02BCC4B0163646CC00E9F620 /* ViewController.m in Sources */,
 				02BCC4D41636479500E9F620 /* BaseHttpAPI.m in Sources */,
+				02BCC4D716364CA300E9F620 /* XMLReader.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

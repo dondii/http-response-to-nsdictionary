@@ -7,6 +7,7 @@
 //
 
 #import "BaseHttpAPI.h"
+#import "XMLReader.h"
 
 @implementation BaseHttpAPI
 
