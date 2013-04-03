@@ -1,4 +1,4 @@
-http-response-to-nsdictionary
+hsjasttp-response-to-nsdictionary
 =============================
 AasasakjkajwkUOOOOOOOOO
 Get HTTP response (JSON / XML) and conver to NSDictionary 
